@@ -1,16 +1,21 @@
-## Hi there 👋
+## hey there 👋
 
-<!--
-**leroumdeux/leroumdeux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i’m alex - a grad student in anglophone studies (Université Bordeaux Montaigne) trying to make academia a lil more ✨ tech-fluent ✨
 
-Here are some ideas to get you started:
+### what i’m up to rn
+- doing researchy things in english/linguistics
+- slowly getting into **R** because apparently that’s what linguists do now
+- messing around with languages + digital humanities vibes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### languages i mess with
+**human:** english • french • romanian • portuguese • spanish • (learning greek)  
+**tech:** python • bash • html/css (very baby level but we try)
+
+### random about me
+- low-key obsessed with **public transit** (trains > everything, sorry not sorry)
+- bikes > cars. trams > chaos.  
+- will talk for hours about languages or metro systems if you let me
+
+---
+
+that’s me basically - feel free to poke around 🌿
